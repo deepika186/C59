@@ -27,7 +27,11 @@ body {
     z-index: 9
 }
 
-
+#footer{
+    width:90%;
+    height: auto;
+    background-color: cyan;
+}
 
 h1 {
 
